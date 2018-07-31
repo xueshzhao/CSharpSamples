@@ -8,6 +8,7 @@ namespace DotCoreTrial.HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Add for Git operation trial");
+            Console.WriteLine("now we add a new branch");
         }
     }
 }
