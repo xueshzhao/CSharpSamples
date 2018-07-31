@@ -7,7 +7,7 @@ namespace DotCoreTrial.HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Add for Git operation");
+            Console.WriteLine("Add for Git operation trial");
         }
     }
 }
